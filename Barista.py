@@ -1,3 +1,4 @@
+#it's a test!
 # This is a trinning program
 print("Welcome to Michael's coffee shop")
 name = input("\nWhat is your name?\n")
