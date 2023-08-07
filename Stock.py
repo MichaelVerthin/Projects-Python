@@ -18,4 +18,5 @@ def calcplz():
     input()
     calcplz()
 calcplz()
+
 input()
