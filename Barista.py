@@ -1,3 +1,4 @@
+'''old project'''
 import os
 #it's a test!
 # This is a trinning program
